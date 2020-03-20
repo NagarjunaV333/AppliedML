@@ -1,3 +1,3 @@
 # AppliedML
 ML Case studies
-Python with Datascince
+with Python ML
